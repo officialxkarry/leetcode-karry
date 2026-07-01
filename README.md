@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/officialxkarry/leetcode-karry/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/officialxkarry/leetcode-karry/tree/master/0704-binary-search) |
 | [0989-add-to-array-form-of-integer](https://github.com/officialxkarry/leetcode-karry/tree/master/0989-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialxkarry/leetcode-karry/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/officialxkarry/leetcode-karry/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
