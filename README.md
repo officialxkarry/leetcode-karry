@@ -41,4 +41,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/officialxkarry/leetcode-karry/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/officialxkarry/leetcode-karry/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
