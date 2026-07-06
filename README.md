@@ -37,6 +37,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/officialxkarry/leetcode-karry/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/officialxkarry/leetcode-karry/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/officialxkarry/leetcode-karry/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0989-add-to-array-form-of-integer](https://github.com/officialxkarry/leetcode-karry/tree/master/0989-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
@@ -59,4 +60,5 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/officialxkarry/leetcode-karry/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/officialxkarry/leetcode-karry/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
