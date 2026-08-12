@@ -8,11 +8,13 @@
 | [0509-fibonacci-number](https://github.com/officialxkarry/leetcode-karry/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/officialxkarry/leetcode-karry/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/officialxkarry/leetcode-karry/tree/master/1137-n-th-tribonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/officialxkarry/leetcode-karry/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/officialxkarry/leetcode-karry/tree/master/1518-water-bottles) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/officialxkarry/leetcode-karry/tree/master/0231-power-of-two) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/officialxkarry/leetcode-karry/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
