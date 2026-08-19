@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/officialxkarry/leetcode-karry/tree/master/1518-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/officialxkarry/leetcode-karry/tree/master/1929-concatenation-of-array) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0704-binary-search](https://github.com/officialxkarry/leetcode-karry/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/officialxkarry/leetcode-karry/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0989-add-to-array-form-of-integer](https://github.com/officialxkarry/leetcode-karry/tree/master/0989-add-to-array-form-of-integer) |
+| [1929-concatenation-of-array](https://github.com/officialxkarry/leetcode-karry/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
