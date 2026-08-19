@@ -40,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/officialxkarry/leetcode-karry/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0033-search-in-rotated-sorted-array) |
+| [0283-move-zeroes](https://github.com/officialxkarry/leetcode-karry/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/officialxkarry/leetcode-karry/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/officialxkarry/leetcode-karry/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0989-add-to-array-form-of-integer](https://github.com/officialxkarry/leetcode-karry/tree/master/0989-add-to-array-form-of-integer) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialxkarry/leetcode-karry/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/officialxkarry/leetcode-karry/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
