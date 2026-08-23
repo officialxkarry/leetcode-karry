@@ -43,6 +43,7 @@
 | [0283-move-zeroes](https://github.com/officialxkarry/leetcode-karry/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/officialxkarry/leetcode-karry/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/officialxkarry/leetcode-karry/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0977-squares-of-a-sorted-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/officialxkarry/leetcode-karry/tree/master/0989-add-to-array-form-of-integer) |
 | [1929-concatenation-of-array](https://github.com/officialxkarry/leetcode-karry/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -59,6 +60,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialxkarry/leetcode-karry/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/officialxkarry/leetcode-karry/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -69,4 +71,8 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/officialxkarry/leetcode-karry/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/officialxkarry/leetcode-karry/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
