@@ -1,4 +1,5 @@
 class Solution {
+    //By -----> Boyre-Moore Majority Voting Element Algorithm
     public int majorityElement(int[] nums)
     {
         int n = nums.length;
