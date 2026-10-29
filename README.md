@@ -44,6 +44,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/officialxkarry/leetcode-karry/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/officialxkarry/leetcode-karry/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/officialxkarry/leetcode-karry/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/officialxkarry/leetcode-karry/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/officialxkarry/leetcode-karry/tree/master/0704-binary-search) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/officialxkarry/leetcode-karry/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/officialxkarry/leetcode-karry/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/officialxkarry/leetcode-karry/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/officialxkarry/leetcode-karry/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -85,6 +87,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/officialxkarry/leetcode-karry/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/officialxkarry/leetcode-karry/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/officialxkarry/leetcode-karry/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
