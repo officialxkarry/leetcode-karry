@@ -47,6 +47,7 @@
 | [0217-contains-duplicate](https://github.com/officialxkarry/leetcode-karry/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/officialxkarry/leetcode-karry/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/officialxkarry/leetcode-karry/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/officialxkarry/leetcode-karry/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/officialxkarry/leetcode-karry/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0977-squares-of-a-sorted-array) |
@@ -59,6 +60,7 @@
 | [0169-majority-element](https://github.com/officialxkarry/leetcode-karry/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/officialxkarry/leetcode-karry/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/officialxkarry/leetcode-karry/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
