@@ -49,6 +49,7 @@
 | [0268-missing-number](https://github.com/officialxkarry/leetcode-karry/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/officialxkarry/leetcode-karry/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/officialxkarry/leetcode-karry/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/officialxkarry/leetcode-karry/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/officialxkarry/leetcode-karry/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -62,6 +63,7 @@
 | [0169-majority-element](https://github.com/officialxkarry/leetcode-karry/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/officialxkarry/leetcode-karry/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/officialxkarry/leetcode-karry/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
@@ -95,6 +97,7 @@
 | [0169-majority-element](https://github.com/officialxkarry/leetcode-karry/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/officialxkarry/leetcode-karry/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/officialxkarry/leetcode-karry/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/officialxkarry/leetcode-karry/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
